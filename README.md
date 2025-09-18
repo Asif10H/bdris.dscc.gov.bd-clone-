@@ -1,4 +1,4 @@
-# bdris.dscc.gov.bd-clone-
+# bdris.dscc.gov.bd(clone)
 
 ![Screenshot](full-page.png)
 
